@@ -1,1 +1,3 @@
-After discovering all of the readily available parquet utilities don't seem to work on an M1 mac I started writing my own.
+Utilities for working with parquet files that don't require snappy.
+
+The motification for building this to get around the no native implementation of snappy errors I was receiving on my m1 mac. 

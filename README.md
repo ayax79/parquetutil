@@ -1,0 +1,1 @@
+After discovering all of the readily available parquet utilities don't seem to work on an M1 mac I started writing my own.
